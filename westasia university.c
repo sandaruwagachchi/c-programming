@@ -2,9 +2,9 @@
 void main()
 {
     double GPA,value,fee;
-    printf("please enter your GPA");
+    printf("please enter your GPA: ");
     scanf("%lf",&GPA);
-    printf("please enter value");
+    printf("please enter value: ");
     scanf("%lf",&value);
     if(GPA>=3.8)
     {
